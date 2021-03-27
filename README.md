@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm run electron`
+
+Runs the app as a windows application.
+
 ### `npm start`
 
 Runs the app in the development mode.\
